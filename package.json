@@ -1,8 +1,10 @@
 {
   "name": "@kanaries/vue-graphic-walker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "main": "./dist/brian-component-lib.umd.cjs",
   "module": "./dist/brian-component-lib.js",
   "exports": {
@@ -18,9 +20,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@kanaries/graphic-walker": "^0.3.9",
-    "react": "17.x",
-    "react-dom": "17.x",
+    "@kanaries/graphic-walker": "^0.4.62",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "styled-components": "5.x",
     "vue": "^3.2.47"
   },
