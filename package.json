@@ -20,9 +20,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@kanaries/graphic-walker": "^0.4.62",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "@kanaries/graphic-walker": "^0.4.49",
+    "react": "17.x",
+    "react-dom": "17.x",
     "styled-components": "5.x",
     "vue": "^3.2.47"
   },
